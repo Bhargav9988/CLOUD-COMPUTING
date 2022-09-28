@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/113018523/192223227-8daf3562-df4d-4a81-a325-6a421658bf5c.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223268-8f333240-fdc9-494d-a957-efe36d96b120.png)
 ##ex.no.3
-()
+(https://github.com/Bhargav9988/CLOUD-COMPUTING/blob/main/ex%20no%203)
 ![image](https://user-images.githubusercontent.com/113018523/192223433-56126065-6506-48c8-82b9-f55379491f60.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223462-5f1fde0e-0485-4e08-9499-c41cd8556a42.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223491-476a3e37-eda8-4bd7-955e-52ca94029c7b.png)
