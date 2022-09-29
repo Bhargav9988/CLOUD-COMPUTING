@@ -60,7 +60,7 @@
 ![image](https://user-images.githubusercontent.com/113335352/192465580-24c45f33-0027-4f23-9b81-52c9863febad.png)
 
 ##exp  no 10:
-()
+(https://github.com/Bhargav9988/CLOUD-COMPUTING/blob/main/exp%20no%2010)
 ![image](https://user-images.githubusercontent.com/113335352/192465866-2b02323c-b585-40c3-a21a-e68da8ff2f01.png)
 ![image](https://user-images.githubusercontent.com/113335352/192466155-b9a019d8-a442-4d85-bc21-52148b4bfdbb.png)
 ![image](https://user-images.githubusercontent.com/113335352/192466277-3dd846de-fee9-4d01-a425-093a2513efee.png)
