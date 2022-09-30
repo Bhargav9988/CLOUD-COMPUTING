@@ -109,3 +109,32 @@
 ![Screenshot (153)](https://user-images.githubusercontent.com/113407411/192939780-8ab44941-d0d4-4668-97e2-a9db114bb8b8.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/113407411/192939793-77f6845f-c2aa-4ccd-8782-e2cd9d93334e.png)
 ![Screenshot (155)](https://user-images.githubusercontent.com/113407411/192939801-8f10259d-b7c1-4edd-acd0-bc1e27ef8462.png)
+
+##exp.no.17
+(https://github.com/Bhargav9988/csa1557-cloud-computing-lab/blob/main/exp.no.:17)
+![Screenshot (160)](https://user-images.githubusercontent.com/113407411/192979611-fb0cfb01-aade-43ce-a08b-55fce3f034f7.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/113407411/192979698-27f90f3b-96da-4d81-a556-59300d461b67.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/113407411/192979759-dae4e264-0c54-459b-b409-1747cd024184.png)
+
+##exp.no.18
+(https://github.com/Bhargav9988/csa1557-cloud-computing-lab/blob/main/exp.no.18)
+![Screenshot (156)](https://user-images.githubusercontent.com/113407411/192979403-cb032b6c-50ac-493d-aa91-6d8434d89911.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/113407411/192979433-42043fc0-cf5a-4071-976d-fcc880fea653.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/113407411/192979611-fb0cfb01-aade-43ce-a08b-55fce3f034f7.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/113407411/192979698-27f90f3b-96da-4d81-a556-59300d461b67.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/113407411/192979759-dae4e264-0c54-459b-b409-1747cd024184.png)
+
+##exp.no.19
+(https://github.com/Bhargav9988/csa1557-cloud-computing-lab/blob/main/exp.no.:19)
+![Screenshot (166)](https://user-images.githubusercontent.com/113407411/193187345-a2ad4fa1-0027-476f-914b-6c20f7141466.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/113407411/193187354-a03748cd-12d3-476e-8c77-8112e02b9cf3.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/113407411/193187416-952bb3ae-01c6-47f2-8b27-2e7c6ed55998.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/113407411/193187450-d72566b3-d84d-4355-a3f5-aba02b200880.png)
+
+##exp.no.20
+(https://github.com/Bhargav9988/csa1557-cloud-computing-lab/blob/main/exp.no.:20)
+![Screenshot (173)](https://user-images.githubusercontent.com/113407411/193187604-9c42f448-f822-4c38-b18e-43d23a3cd1e6.png)
+![Screenshot (175)](https://user-images.githubusercontent.com/113407411/193190248-213af4dd-9f6b-4a8c-bf07-1d52c97c68ce.png
+![Screenshot (176)](https://user-images.githubusercontent.com/113407411/193190339-14f352df-95dd-4545-a44c-4a3cf2bd317c.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/113407411/193190285-3464ead7-b2b0-4e98-a140-5ae4c89a999a.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/113407411/193190305-4c6912b0-7ef3-4d12-bcd2-8916099278a5.png)
